@@ -1,0 +1,28 @@
+{
+	"dinosaurs": [
+		{
+			"name": "Rex",
+			"type":"T-rex",
+			"food":"smaller dinosaurs",
+			"url":"https://i5.walmartimages.com/asr/6ce1341b-7aa5-4970-8307-f5f7686b2162_1.b628f236888ec01356ad32706939250d.jpeg"
+		},
+		{
+			"name": "Petrie",
+			"type":"Pterodactyl",
+			"food":"berries",
+			"url":"https://images-na.ssl-images-amazon.com/images/I/41kc5xG21eL.jpg"
+		},
+		{
+			"name": "Cera",
+			"type":"Triceratops",
+			"food":"leaves",
+			"url":"http://vignette4.wikia.nocookie.net/jurassicpark/images/b/b0/Jurassic-world-dinos-triceratops-3-mini-figures-random-color-scheme-hasbro-toys-9.jpg/revision/latest?cb=20151211065603"
+		},
+		{
+			"name": "Steggie",
+			"type":"Stegosaurus",
+			"food":"leaves",
+			"url":"https://images-na.ssl-images-amazon.com/images/I/61CffdxmUlL._SX355_.jpg"
+		}
+	]
+}
